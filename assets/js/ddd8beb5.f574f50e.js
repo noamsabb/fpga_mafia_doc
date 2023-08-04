@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docs=self.webpackChunkmy_docs||[]).push([[639],{3533:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/noamsabb/fpga_mafia_doc/blog/tags/hello","allTagsPath":"/noamsabb/fpga_mafia_doc/blog/tags","count":2}')}}]);
