@@ -6,7 +6,7 @@
 export default {
   "title": "FPGA Multi-Agent FabrIc Architecture ",
   "tagline": "",
-  "url": "https://github.com/noamsabb/fpga_mafia_doc",
+  "url": "https://noamsabb.github.io ",
   "baseUrl": "/fpga_mafia_doc/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
