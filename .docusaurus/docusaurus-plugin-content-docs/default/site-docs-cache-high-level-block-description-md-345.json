@@ -6,7 +6,7 @@
   "source": "@site/docs/cache/High_level_block_description.md",
   "sourceDirName": "cache",
   "slug": "/cache/High_level_block_description",
-  "permalink": "/noamsabb/Docu_Test/docs/cache/High_level_block_description",
+  "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/High_level_block_description",
   "draft": false,
   "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/High_level_block_description.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "Cache",
   "previous": {
     "title": "Overview",
-    "permalink": "/noamsabb/Docu_Test/docs/cache/cache_overview"
+    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/cache_overview"
   },
   "next": {
     "title": "<a name=\"_toc1967356741\"></a><a name=\"_toc1779312326\"></a>**6. High level Transaction Flows**",
-    "permalink": "/noamsabb/Docu_Test/docs/cache/High_level_Transaction_Flows"
+    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/High_level_Transaction_Flows"
   }
 }

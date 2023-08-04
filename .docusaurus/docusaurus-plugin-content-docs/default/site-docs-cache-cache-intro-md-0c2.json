@@ -6,7 +6,7 @@
   "source": "@site/docs/cache/cache_intro.md",
   "sourceDirName": "cache",
   "slug": "/cache/cache_intro",
-  "permalink": "/noamsabb/Docu_Test/docs/cache/cache_intro",
+  "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/cache_intro",
   "draft": false,
   "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/cache_intro.md",
   "tags": [],
@@ -17,6 +17,6 @@
   "sidebar": "Cache",
   "next": {
     "title": "Overview",
-    "permalink": "/noamsabb/Docu_Test/docs/cache/cache_overview"
+    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/cache_overview"
   }
 }

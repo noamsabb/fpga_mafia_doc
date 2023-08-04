@@ -6,7 +6,7 @@
   "source": "@site/docs/cache/Appendix.md",
   "sourceDirName": "cache",
   "slug": "/cache/Appendix",
-  "permalink": "/noamsabb/Docu_Test/docs/cache/Appendix",
+  "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/Appendix",
   "draft": false,
   "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/Appendix.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "Cache",
   "previous": {
     "title": "<a name=\"_toc2054752113\"></a>**9. Assumption & Assertions**",
-    "permalink": "/noamsabb/Docu_Test/docs/cache/Assumption_Assertions"
+    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/Assumption_Assertions"
   },
   "next": {
     "title": "<a name=\"_toc1529489236\"></a>**11. ABD Notes:**",
-    "permalink": "/noamsabb/Docu_Test/docs/cache/ABD_notes"
+    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/ABD_notes"
   }
 }

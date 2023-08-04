@@ -6,7 +6,7 @@
   "source": "@site/docs/cache/cache_overview.md",
   "sourceDirName": "cache",
   "slug": "/cache/cache_overview",
-  "permalink": "/noamsabb/Docu_Test/docs/cache/cache_overview",
+  "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/cache_overview",
   "draft": false,
   "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/cache_overview.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "Cache",
   "previous": {
     "title": "",
-    "permalink": "/noamsabb/Docu_Test/docs/cache/cache_intro"
+    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/cache_intro"
   },
   "next": {
     "title": "5. High Level Block Description",
-    "permalink": "/noamsabb/Docu_Test/docs/cache/High_level_block_description"
+    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/High_level_block_description"
   }
 }

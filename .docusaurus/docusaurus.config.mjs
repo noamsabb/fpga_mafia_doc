@@ -6,8 +6,8 @@
 export default {
   "title": "FPGA Multi-Agent FabrIc Architecture ",
   "tagline": "",
-  "url": "https://noamsabb.github.io ",
-  "baseUrl": "/noamsabb/fpga_mafia_doc/",
+  "url": "https://github.com/noamsabb/fpga_mafia_doc",
+  "baseUrl": "/fpga_mafia_doc/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -18,11 +18,11 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/noam/Desktop/Projet Final/my-docs/sidebars.js",
+          "sidebarPath": "/Users/noam/Desktop/Projet Final/FPGA_MAFIA_DOC/sidebars.js",
           "editUrl": "https://github.com/amichai-bd/fpga_mafia"
         },
         "theme": {
-          "customCss": "/Users/noam/Desktop/Projet Final/my-docs/src/css/custom.css"
+          "customCss": "/Users/noam/Desktop/Projet Final/FPGA_MAFIA_DOC/src/css/custom.css"
         }
       }
     ]

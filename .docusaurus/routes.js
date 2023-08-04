@@ -3,174 +3,174 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/noamsabb/Docu_Test/blog',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog', '844'),
+    path: '/noamsabb/fpga_mafia_doc/blog',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog', '84e'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/archive',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/archive', '5dd'),
+    path: '/noamsabb/fpga_mafia_doc/blog/archive',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/archive', '174'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/first-blog-post',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/first-blog-post', '9f3'),
+    path: '/noamsabb/fpga_mafia_doc/blog/first-blog-post',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/first-blog-post', 'a6f'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/long-blog-post',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/long-blog-post', '16b'),
+    path: '/noamsabb/fpga_mafia_doc/blog/long-blog-post',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/long-blog-post', '323'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/mdx-blog-post',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/mdx-blog-post', '2c0'),
+    path: '/noamsabb/fpga_mafia_doc/blog/mdx-blog-post',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/mdx-blog-post', '279'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/tags',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/tags', '998'),
+    path: '/noamsabb/fpga_mafia_doc/blog/tags',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/tags', '954'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/tags/docusaurus',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/tags/docusaurus', 'a53'),
+    path: '/noamsabb/fpga_mafia_doc/blog/tags/docusaurus',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/tags/docusaurus', '48b'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/tags/facebook',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/tags/facebook', 'bc8'),
+    path: '/noamsabb/fpga_mafia_doc/blog/tags/facebook',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/tags/facebook', '19a'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/tags/hello',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/tags/hello', 'b23'),
+    path: '/noamsabb/fpga_mafia_doc/blog/tags/hello',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/tags/hello', 'ec5'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/tags/hola',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/tags/hola', '399'),
+    path: '/noamsabb/fpga_mafia_doc/blog/tags/hola',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/tags/hola', '015'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/blog/welcome',
-    component: ComponentCreator('/noamsabb/Docu_Test/blog/welcome', '776'),
+    path: '/noamsabb/fpga_mafia_doc/blog/welcome',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/blog/welcome', '4d3'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/markdown-page',
-    component: ComponentCreator('/noamsabb/Docu_Test/markdown-page', '1bc'),
+    path: '/noamsabb/fpga_mafia_doc/markdown-page',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/markdown-page', '956'),
     exact: true
   },
   {
-    path: '/noamsabb/Docu_Test/docs',
-    component: ComponentCreator('/noamsabb/Docu_Test/docs', '4d9'),
+    path: '/noamsabb/fpga_mafia_doc/docs',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs', '4be'),
     routes: [
       {
-        path: '/noamsabb/Docu_Test/docs/cache/ABD_notes',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/cache/ABD_notes', '17f'),
+        path: '/noamsabb/fpga_mafia_doc/docs/cache/ABD_notes',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/cache/ABD_notes', '3d3'),
         exact: true,
         sidebar: "Cache"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/cache/Appendix',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/cache/Appendix', '814'),
+        path: '/noamsabb/fpga_mafia_doc/docs/cache/Appendix',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/cache/Appendix', 'b95'),
         exact: true,
         sidebar: "Cache"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/cache/Assumption_Assertions',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/cache/Assumption_Assertions', 'bb6'),
+        path: '/noamsabb/fpga_mafia_doc/docs/cache/Assumption_Assertions',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/cache/Assumption_Assertions', '8f2'),
         exact: true,
         sidebar: "Cache"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/cache/cache_intro',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/cache/cache_intro', '8df'),
+        path: '/noamsabb/fpga_mafia_doc/docs/cache/cache_intro',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/cache/cache_intro', '1e9'),
         exact: true,
         sidebar: "Cache"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/cache/cache_overview',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/cache/cache_overview', '6fb'),
+        path: '/noamsabb/fpga_mafia_doc/docs/cache/cache_overview',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/cache/cache_overview', '26e'),
         exact: true,
         sidebar: "Cache"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/cache/High_level_block_description',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/cache/High_level_block_description', 'a5d'),
+        path: '/noamsabb/fpga_mafia_doc/docs/cache/High_level_block_description',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/cache/High_level_block_description', '49b'),
         exact: true,
         sidebar: "Cache"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/cache/High_level_Transaction_Flows',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/cache/High_level_Transaction_Flows', '390'),
+        path: '/noamsabb/fpga_mafia_doc/docs/cache/High_level_Transaction_Flows',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/cache/High_level_Transaction_Flows', 'e2f'),
         exact: true,
         sidebar: "Cache"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/cache/Merge_Buffer_Behavior',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/cache/Merge_Buffer_Behavior', '9ba'),
+        path: '/noamsabb/fpga_mafia_doc/docs/cache/Merge_Buffer_Behavior',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/cache/Merge_Buffer_Behavior', '179'),
         exact: true,
         sidebar: "Cache"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/cache/Verification',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/cache/Verification', '892'),
+        path: '/noamsabb/fpga_mafia_doc/docs/cache/Verification',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/cache/Verification', '529'),
         exact: true,
         sidebar: "Cache"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/intro',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/intro', '0cf'),
+        path: '/noamsabb/fpga_mafia_doc/docs/intro',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/intro', '301'),
         exact: true,
         sidebar: "Hello"
       },
       {
-        path: '/noamsabb/Docu_Test/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/tutorial-basics/congratulations', '9fe'),
+        path: '/noamsabb/fpga_mafia_doc/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/tutorial-basics/congratulations', 'a72'),
         exact: true
       },
       {
-        path: '/noamsabb/Docu_Test/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/tutorial-basics/create-a-blog-post', 'f40'),
+        path: '/noamsabb/fpga_mafia_doc/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/tutorial-basics/create-a-blog-post', 'aaa'),
         exact: true
       },
       {
-        path: '/noamsabb/Docu_Test/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/tutorial-basics/create-a-document', 'f53'),
+        path: '/noamsabb/fpga_mafia_doc/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/tutorial-basics/create-a-document', '37f'),
         exact: true
       },
       {
-        path: '/noamsabb/Docu_Test/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/tutorial-basics/create-a-page', '12a'),
+        path: '/noamsabb/fpga_mafia_doc/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/tutorial-basics/create-a-page', 'caa'),
         exact: true
       },
       {
-        path: '/noamsabb/Docu_Test/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/tutorial-basics/deploy-your-site', 'afc'),
+        path: '/noamsabb/fpga_mafia_doc/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/tutorial-basics/deploy-your-site', '48d'),
         exact: true
       },
       {
-        path: '/noamsabb/Docu_Test/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/tutorial-basics/markdown-features', '793'),
+        path: '/noamsabb/fpga_mafia_doc/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/tutorial-basics/markdown-features', '933'),
         exact: true
       },
       {
-        path: '/noamsabb/Docu_Test/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/tutorial-extras/manage-docs-versions', '742'),
+        path: '/noamsabb/fpga_mafia_doc/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/tutorial-extras/manage-docs-versions', '9f7'),
         exact: true
       },
       {
-        path: '/noamsabb/Docu_Test/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/noamsabb/Docu_Test/docs/tutorial-extras/translate-your-site', 'ffe'),
+        path: '/noamsabb/fpga_mafia_doc/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/noamsabb/fpga_mafia_doc/docs/tutorial-extras/translate-your-site', '942'),
         exact: true
       }
     ]
   },
   {
-    path: '/noamsabb/Docu_Test/',
-    component: ComponentCreator('/noamsabb/Docu_Test/', 'aa1'),
+    path: '/noamsabb/fpga_mafia_doc/',
+    component: ComponentCreator('/noamsabb/fpga_mafia_doc/', 'ca9'),
     exact: true
   },
   {
