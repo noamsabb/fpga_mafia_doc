@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'FPGA Multi-Agent FabrIc Architecture ',
   tagline: '',
  url: 'https://noamsabb.github.io ',
-  baseUrl: '/noamsabb/Docu_Test/',
+  baseUrl: '/noamsabb/fpga_mafia_doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'noamsabb', // Usually your GitHub org/user name.
-  projectName: 'Docu_Test', // Usually your repo name.
+  projectName: 'fpga_mafia_doc', // Usually your repo name.
 
   presets: [
     [
