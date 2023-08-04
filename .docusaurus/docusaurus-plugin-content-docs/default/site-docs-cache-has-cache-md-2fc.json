@@ -1,0 +1,22 @@
+{
+  "unversionedId": "cache/HAS_Cache",
+  "id": "cache/HAS_Cache",
+  "title": "HAS_Cache",
+  "description": "Faculty Of Engineering",
+  "source": "@site/docs/cache/HAS_Cache.md",
+  "sourceDirName": "cache",
+  "slug": "/cache/HAS_Cache",
+  "permalink": "/docs/cache/HAS_Cache",
+  "draft": false,
+  "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/HAS_Cache.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cache_intro",
+    "permalink": "/docs/cache/cache_intro"
+  }
+}

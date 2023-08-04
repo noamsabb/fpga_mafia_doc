@@ -1,0 +1,23 @@
+{
+  "unversionedId": "mafia_ppt",
+  "id": "mafia_ppt",
+  "title": "FPGA Multi-Agent FabrIc Architecture (MAFIA)",
+  "description": "mafiasanity",
+  "source": "@site/docs/mafia_ppt.md",
+  "sourceDirName": ".",
+  "slug": "/mafia_ppt",
+  "permalink": "/docs/mafia_ppt",
+  "draft": false,
+  "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/mafia_ppt.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": true,
+    "paginate": true,
+    "theme": "gaia",
+    "size": 969,
+    "header": "The MAFIA Project",
+    "author": "Amichai Ben David",
+    "date": "2023-06-01"
+  }
+}

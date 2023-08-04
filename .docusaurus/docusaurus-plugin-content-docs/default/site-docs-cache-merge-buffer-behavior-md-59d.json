@@ -1,0 +1,15 @@
+{
+  "unversionedId": "cache/Merge Buffer Behavior",
+  "id": "cache/Merge Buffer Behavior",
+  "title": "<a name=\"_toc1444127171\"></a>**7. Merge Buffer Behavior**",
+  "description": "In this chapter we will explain the Merge Buffer behavior through different cases",
+  "source": "@site/docs/cache/Merge Buffer Behavior.md",
+  "sourceDirName": "cache",
+  "slug": "/cache/Merge Buffer Behavior",
+  "permalink": "/docs/cache/Merge Buffer Behavior",
+  "draft": false,
+  "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/Merge Buffer Behavior.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

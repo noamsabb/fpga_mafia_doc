@@ -1,0 +1,15 @@
+{
+  "unversionedId": "cache/ABD notes",
+  "id": "cache/ABD notes",
+  "title": "<a name=\"_toc1529489236\"></a>**11. ABD Notes:**",
+  "description": "I gave some thought in to how to resolve the back2back request and this is what I produced:",
+  "source": "@site/docs/cache/ABD notes.md",
+  "sourceDirName": "cache",
+  "slug": "/cache/ABD notes",
+  "permalink": "/docs/cache/ABD notes",
+  "draft": false,
+  "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/ABD notes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

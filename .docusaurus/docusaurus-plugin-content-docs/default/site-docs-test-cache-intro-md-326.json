@@ -1,0 +1,23 @@
+{
+  "unversionedId": "test/cache_intro",
+  "id": "test/cache_intro",
+  "title": "cache_intro",
+  "description": "Cache Architecture for the Mesh project",
+  "source": "@site/docs/test/cache_intro.md",
+  "sourceDirName": "test",
+  "slug": "/test/cache_intro",
+  "permalink": "/docs/test/cache_intro",
+  "draft": false,
+  "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/test/cache_intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

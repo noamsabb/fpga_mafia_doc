@@ -1,0 +1,23 @@
+{
+  "unversionedId": "cache/cache_overview/cache_overview",
+  "id": "cache/cache_overview/cache_overview",
+  "title": "4. Overview",
+  "description": "This HAS (High-Level-Architecture-Specification) will describe the Cache DUT",
+  "source": "@site/docs/cache/cache_overview/cache_overview.md",
+  "sourceDirName": "cache/cache_overview",
+  "slug": "/cache/cache_overview/",
+  "permalink": "/docs/cache/cache_overview/",
+  "draft": false,
+  "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/cache_overview/cache_overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "Cache",
+  "previous": {
+    "title": "cache_intro",
+    "permalink": "/docs/cache/cache_intro"
+  }
+}
