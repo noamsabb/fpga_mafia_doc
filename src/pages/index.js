@@ -23,7 +23,6 @@ function HomepageHeader() {
         <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <div align = 'left'>
         <h3>Contributors:</h3>
-        <div>
           <a href="https://github.com/amichai-bd">Amichai Ben David</a>
           <br/>
           <a href="https://github.com/danielk532">Daniel Kaufman</a>

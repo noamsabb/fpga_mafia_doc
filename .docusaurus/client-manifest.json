@@ -271,9 +271,9 @@
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.966a82f2.js",
-          "hash": "1473ad5c2cc122f8",
-          "publicPath": "/fpga_mafia_doc/assets/js/runtime~main.966a82f2.js"
+          "file": "assets/js/runtime~main.4c4c23de.js",
+          "hash": "8400128c22a2fc4d",
+          "publicPath": "/fpga_mafia_doc/assets/js/runtime~main.4c4c23de.js"
         }
       ]
     },
@@ -460,9 +460,9 @@
     "4195": {
       "js": [
         {
-          "file": "assets/js/c4f5d8e4.06db43d1.js",
-          "hash": "d7972770b95db42c",
-          "publicPath": "/fpga_mafia_doc/assets/js/c4f5d8e4.06db43d1.js"
+          "file": "assets/js/c4f5d8e4.7f354271.js",
+          "hash": "e401b2f0b51482fd",
+          "publicPath": "/fpga_mafia_doc/assets/js/c4f5d8e4.7f354271.js"
         }
       ]
     },
