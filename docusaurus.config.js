@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'FPGA Multi-Agent FabrIc Architecture ',
   tagline: '',
  url: 'https://noamsabb.github.io ',
-  baseUrl: '/noamsabb/fpga_mafia_doc/',
+  baseUrl: '/fpga_mafia_doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
