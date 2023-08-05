@@ -6,7 +6,7 @@
   "source": "@site/docs/cache/Verification.md",
   "sourceDirName": "cache",
   "slug": "/cache/Verification",
-  "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/Verification",
+  "permalink": "/fpga_mafia_doc/docs/cache/Verification",
   "draft": false,
   "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/Verification.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "Cache",
   "previous": {
     "title": "<a name=\"_toc1444127171\"></a>**7. Merge Buffer Behavior**",
-    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/Merge_Buffer_Behavior"
+    "permalink": "/fpga_mafia_doc/docs/cache/Merge_Buffer_Behavior"
   },
   "next": {
     "title": "<a name=\"_toc2054752113\"></a>**9. Assumption & Assertions**",
-    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/Assumption_Assertions"
+    "permalink": "/fpga_mafia_doc/docs/cache/Assumption_Assertions"
   }
 }

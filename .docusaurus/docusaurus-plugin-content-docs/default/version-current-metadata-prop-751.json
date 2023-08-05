@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Hello",
-        "href": "/noamsabb/fpga_mafia_doc/docs/intro",
+        "href": "/fpga_mafia_doc/docs/intro",
         "docId": "intro"
       }
     ],
@@ -20,55 +20,55 @@
       {
         "type": "link",
         "label": "Intro",
-        "href": "/noamsabb/fpga_mafia_doc/docs/cache/cache_intro",
+        "href": "/fpga_mafia_doc/docs/cache/cache_intro",
         "docId": "cache/cache_intro"
       },
       {
         "type": "link",
         "label": "Overview",
-        "href": "/noamsabb/fpga_mafia_doc/docs/cache/cache_overview",
+        "href": "/fpga_mafia_doc/docs/cache/cache_overview",
         "docId": "cache/cache_overview"
       },
       {
         "type": "link",
         "label": "High level block description",
-        "href": "/noamsabb/fpga_mafia_doc/docs/cache/High_level_block_description",
+        "href": "/fpga_mafia_doc/docs/cache/High_level_block_description",
         "docId": "cache/High_level_block_description"
       },
       {
         "type": "link",
         "label": "High level Transaction Flows",
-        "href": "/noamsabb/fpga_mafia_doc/docs/cache/High_level_Transaction_Flows",
+        "href": "/fpga_mafia_doc/docs/cache/High_level_Transaction_Flows",
         "docId": "cache/High_level_Transaction_Flows"
       },
       {
         "type": "link",
         "label": "Merge Buffer Behavior",
-        "href": "/noamsabb/fpga_mafia_doc/docs/cache/Merge_Buffer_Behavior",
+        "href": "/fpga_mafia_doc/docs/cache/Merge_Buffer_Behavior",
         "docId": "cache/Merge_Buffer_Behavior"
       },
       {
         "type": "link",
         "label": "Verification",
-        "href": "/noamsabb/fpga_mafia_doc/docs/cache/Verification",
+        "href": "/fpga_mafia_doc/docs/cache/Verification",
         "docId": "cache/Verification"
       },
       {
         "type": "link",
         "label": "Assumption & Assertions",
-        "href": "/noamsabb/fpga_mafia_doc/docs/cache/Assumption_Assertions",
+        "href": "/fpga_mafia_doc/docs/cache/Assumption_Assertions",
         "docId": "cache/Assumption_Assertions"
       },
       {
         "type": "link",
         "label": "Appendix",
-        "href": "/noamsabb/fpga_mafia_doc/docs/cache/Appendix",
+        "href": "/fpga_mafia_doc/docs/cache/Appendix",
         "docId": "cache/Appendix"
       },
       {
         "type": "link",
         "label": "ABD Notes",
-        "href": "/noamsabb/fpga_mafia_doc/docs/cache/ABD_notes",
+        "href": "/fpga_mafia_doc/docs/cache/ABD_notes",
         "docId": "cache/ABD_notes"
       }
     ]

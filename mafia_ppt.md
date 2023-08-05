@@ -15,11 +15,11 @@ date: '2023-06-01'
 ---
 
 Contributors:
-- Amichai Ben David
-- Daniel Kaufman
-- Noam Sabban
-- Shmuel Sfez
-- Yeonatan Perelman
+- [Amichai Ben David](https://github.com/amichai-bd)
+- [Daniel Kaufman](https://github.com/danielk532)
+- [Noam Sabban](https://github.com/noamsabb)
+- [Shmuel Sfez](https://github.com/ShmuelSfez)
+- [Yeonatan Perelman](https://github.com/yeonatanPerelman)
 
 ---
 

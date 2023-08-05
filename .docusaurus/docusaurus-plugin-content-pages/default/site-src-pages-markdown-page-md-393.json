@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/noamsabb/fpga_mafia_doc/markdown-page",
+  "permalink": "/fpga_mafia_doc/markdown-page",
   "source": "@site/src/pages/markdown-page.md",
   "title": "Markdown page example",
   "description": "You don't need React to write simple standalone pages.",

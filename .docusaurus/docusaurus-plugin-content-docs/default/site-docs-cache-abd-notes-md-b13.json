@@ -6,7 +6,7 @@
   "source": "@site/docs/cache/ABD_notes.md",
   "sourceDirName": "cache",
   "slug": "/cache/ABD_notes",
-  "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/ABD_notes",
+  "permalink": "/fpga_mafia_doc/docs/cache/ABD_notes",
   "draft": false,
   "editUrl": "https://github.com/amichai-bd/fpga_mafia/docs/cache/ABD_notes.md",
   "tags": [],
@@ -15,6 +15,6 @@
   "sidebar": "Cache",
   "previous": {
     "title": "<a name=\"_toc121115370\"></a><a name=\"_toc93555976\"></a>**10. Appendix**",
-    "permalink": "/noamsabb/fpga_mafia_doc/docs/cache/Appendix"
+    "permalink": "/fpga_mafia_doc/docs/cache/Appendix"
   }
 }
