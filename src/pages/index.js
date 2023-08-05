@@ -22,19 +22,19 @@ function HomepageHeader() {
         </div>
         <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <div align = 'left'>
-          <h3>Contributors:</h3>
-         
-            Amichai Ben David
-            <br/>
-            Daniel Kaufman
-            <br/>
-            Noam Sabban
-            <br/>
-            Shmuel Sfez
-            <br/>
-            Yeonatan Perelman
-    
-          </div>
+        <h3>Contributors:</h3>
+        <div>
+          <a href="https://github.com/amichai-bd">Amichai Ben David</a>
+          <br/>
+          <a href="https://github.com/danielk532">Daniel Kaufman</a>
+          <br/>
+          <a href="https://github.com/noamsabb">Noam Sabban</a>
+          <br/>
+          <a href="https://github.com/ShmuelSfez">Shmuel Sfez</a>
+          <br/>
+          <a href="https://github.com/yeonatanPerelman">Yeonatan Perelman</a>
+        </div>
+
           <div>
           <h3><strong>Current Development Status:</strong></h3>
           <p>
