@@ -1,0 +1,25 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Change this to the name of your main branch, if different
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14' # Change this to the version of Node.js required for your project
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Deploy to GitHub Pages
+        run: GIT_USER=noamsabb yarn run docusaurus deploy
