@@ -23,13 +23,13 @@ jobs:
 
       - name: Configure Git
         run: |
-            git config user.email "sabban.noam@gmail.com"
-            git config user.name "noamsabb"
+          git config --global user.email "sabban.noam@gmail.com"
+          git config --global user.name "Noam Sabban"
 
       - name: Build the website
         run: yarn run build
 
       - name: Deploy to GitHub Pages
         env:
-          MY_GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
-        run: GIT_USER=noamsabb GITHUB_TOKEN=$MY_GITHUB_TOKEN yarn run docusaurus deploy
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: GIT_USER=noamsabb GITHUB_TOKEN=$GITHUB_TOKEN yarn run docusaurus deploy
