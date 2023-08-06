@@ -10,10 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Configure Git
-        run: |
-            git config --global user.email "sabban.noam@gmail.com"
-            git config --global user.name "noamsabb"
       - name: Checkout the code
         uses: actions/checkout@v2
 
@@ -25,5 +21,10 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
+      - name: Build the website
+        run: yarn run build
+
       - name: Deploy to GitHub Pages
-        run: GIT_USER=noamsabb yarn run docusaurus deploy
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+        run: GIT_USER=noamsabb GITHUB_TOKEN=$MY_GITHUB_TOKEN yarn run docusaurus deploy
