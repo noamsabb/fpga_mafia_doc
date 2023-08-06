@@ -10,11 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Configure Git
-        run: |
-            git config user.email "sabban.noam@gmail.com"
-            git config user.name "noamsabb"
-
       - name: Checkout the code
         uses: actions/checkout@v2
 
@@ -25,6 +20,11 @@ jobs:
 
       - name: Install dependencies
         run: yarn install
+
+      - name: Configure Git
+        run: |
+            git config user.email "sabban.noam@gmail.com"
+            git config user.name "noamsabb"
 
       - name: Build the website
         run: yarn run build
