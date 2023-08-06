@@ -23,15 +23,15 @@ function HomepageHeader() {
         <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <div align = 'left'>
         <h3>Contributors:</h3>
-          <a href="https://github.com/amichai-bd">Amichai Ben David</a>
-          <br/>
-          <a href="https://github.com/danielk532">Daniel Kaufman</a>
-          <br/>
-          <a href="https://github.com/noamsabb">Noam Sabban</a>
-          <br/>
-          <a href="https://github.com/ShmuelSfez">Shmuel Sfez</a>
-          <br/>
-          <a href="https://github.com/yeonatanPerelman">Yeonatan Perelman</a>
+        <a href="https://github.com/amichai-bd" target="_blank">Amichai Ben David</a>
+        <br/>
+        <a href="https://github.com/danielk532" target="_blank">Daniel Kaufman</a>
+        <br/>
+        <a href="https://github.com/noamsabb" target="_blank">Noam Sabban</a>
+        <br/>
+        <a href="https://github.com/ShmuelSfez" target="_blank">Shmuel Sfez</a>
+        <br/>
+        <a href="https://github.com/yeonatanPerelman" target="_blank">Yeonatan Perelman</a>
         </div>
 
           <div>
