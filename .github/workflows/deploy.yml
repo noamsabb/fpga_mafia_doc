@@ -33,3 +33,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: GIT_USER=noamsabb GITHUB_TOKEN=$GITHUB_TOKEN yarn run docusaurus deploy
+
+        
