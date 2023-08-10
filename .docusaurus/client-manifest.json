@@ -244,9 +244,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.dfa204b7.js",
-          "hash": "18f125ccb175443d",
-          "publicPath": "/fpga_mafia_doc/assets/js/main.dfa204b7.js"
+          "file": "assets/js/main.9e4fb037.js",
+          "hash": "057b3b5f80ca46b3",
+          "publicPath": "/fpga_mafia_doc/assets/js/main.9e4fb037.js"
         }
       ]
     },
@@ -262,9 +262,9 @@
     "688": {
       "js": [
         {
-          "file": "assets/js/b1385f9b.1ac5c0aa.js",
-          "hash": "548cbdc40c4dab97",
-          "publicPath": "/fpga_mafia_doc/assets/js/b1385f9b.1ac5c0aa.js"
+          "file": "assets/js/b1385f9b.2e8987d2.js",
+          "hash": "43dfe5c38c1b9954",
+          "publicPath": "/fpga_mafia_doc/assets/js/b1385f9b.2e8987d2.js"
         }
       ]
     },
@@ -280,36 +280,36 @@
     "1057": {
       "js": [
         {
-          "file": "assets/js/0a99f5e6.4d59713d.js",
-          "hash": "63c2ddcf7a8c70a8",
-          "publicPath": "/fpga_mafia_doc/assets/js/0a99f5e6.4d59713d.js"
+          "file": "assets/js/0a99f5e6.366dbdd8.js",
+          "hash": "2345e9581a8380cd",
+          "publicPath": "/fpga_mafia_doc/assets/js/0a99f5e6.366dbdd8.js"
         }
       ]
     },
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.5e1dd733.js",
-          "hash": "82a6456668cf253d",
-          "publicPath": "/fpga_mafia_doc/assets/js/runtime~main.5e1dd733.js"
+          "file": "assets/js/runtime~main.c5645124.js",
+          "hash": "785ebff11fc5069a",
+          "publicPath": "/fpga_mafia_doc/assets/js/runtime~main.c5645124.js"
         }
       ]
     },
     "1452": {
       "js": [
         {
-          "file": "assets/js/fae5f5e4.5bf525c1.js",
-          "hash": "efab15cb10312ace",
-          "publicPath": "/fpga_mafia_doc/assets/js/fae5f5e4.5bf525c1.js"
+          "file": "assets/js/fae5f5e4.4079b0a4.js",
+          "hash": "651b8743926e9323",
+          "publicPath": "/fpga_mafia_doc/assets/js/fae5f5e4.4079b0a4.js"
         }
       ]
     },
     "1506": {
       "js": [
         {
-          "file": "assets/js/1506.f8f78a75.js",
-          "hash": "5e260ec497e528bd",
-          "publicPath": "/fpga_mafia_doc/assets/js/1506.f8f78a75.js"
+          "file": "assets/js/1506.eccba339.js",
+          "hash": "da4c7bc70e5d4f2f",
+          "publicPath": "/fpga_mafia_doc/assets/js/1506.eccba339.js"
         }
       ]
     },
@@ -325,9 +325,9 @@
     "1993": {
       "js": [
         {
-          "file": "assets/js/f13f06cc.c3c606bf.js",
-          "hash": "0ea2f7bab74a98b1",
-          "publicPath": "/fpga_mafia_doc/assets/js/f13f06cc.c3c606bf.js"
+          "file": "assets/js/f13f06cc.9b78edc4.js",
+          "hash": "752ff27134ed8a4f",
+          "publicPath": "/fpga_mafia_doc/assets/js/f13f06cc.9b78edc4.js"
         }
       ]
     },
@@ -370,9 +370,9 @@
     "2859": {
       "js": [
         {
-          "file": "assets/js/18c41134.49b23608.js",
-          "hash": "03d7461afc0e2d23",
-          "publicPath": "/fpga_mafia_doc/assets/js/18c41134.49b23608.js"
+          "file": "assets/js/18c41134.7aab00f4.js",
+          "hash": "c9e87a65852965ec",
+          "publicPath": "/fpga_mafia_doc/assets/js/18c41134.7aab00f4.js"
         }
       ]
     },
@@ -451,9 +451,9 @@
     "3792": {
       "js": [
         {
-          "file": "assets/js/dff1c289.da949215.js",
-          "hash": "03671d56ca251a6a",
-          "publicPath": "/fpga_mafia_doc/assets/js/dff1c289.da949215.js"
+          "file": "assets/js/dff1c289.7f881b85.js",
+          "hash": "9f0640958108a80b",
+          "publicPath": "/fpga_mafia_doc/assets/js/dff1c289.7f881b85.js"
         }
       ]
     },
@@ -469,9 +469,9 @@
     "4193": {
       "js": [
         {
-          "file": "assets/js/f55d3e7a.8e25bf8d.js",
-          "hash": "28ba91d715ac4df3",
-          "publicPath": "/fpga_mafia_doc/assets/js/f55d3e7a.8e25bf8d.js"
+          "file": "assets/js/f55d3e7a.152c1805.js",
+          "hash": "f57910c438b3ec4c",
+          "publicPath": "/fpga_mafia_doc/assets/js/f55d3e7a.152c1805.js"
         }
       ]
     },
@@ -496,36 +496,36 @@
     "4403": {
       "js": [
         {
-          "file": "assets/js/423a2063.046c327c.js",
-          "hash": "fb19ec6a64840c09",
-          "publicPath": "/fpga_mafia_doc/assets/js/423a2063.046c327c.js"
+          "file": "assets/js/423a2063.bc234acd.js",
+          "hash": "faa42ea7913f5b96",
+          "publicPath": "/fpga_mafia_doc/assets/js/423a2063.bc234acd.js"
         }
       ]
     },
     "4607": {
       "js": [
         {
-          "file": "assets/js/533a09ca.71f3635e.js",
-          "hash": "128d45524f203c68",
-          "publicPath": "/fpga_mafia_doc/assets/js/533a09ca.71f3635e.js"
+          "file": "assets/js/533a09ca.d9992850.js",
+          "hash": "e9f1e237b1d1b40f",
+          "publicPath": "/fpga_mafia_doc/assets/js/533a09ca.d9992850.js"
         }
       ]
     },
     "4672": {
       "js": [
         {
-          "file": "assets/js/a3c4366e.cab07bc0.js",
-          "hash": "099581a7d78c9696",
-          "publicPath": "/fpga_mafia_doc/assets/js/a3c4366e.cab07bc0.js"
+          "file": "assets/js/a3c4366e.ae91ca33.js",
+          "hash": "5ab51aea174398ce",
+          "publicPath": "/fpga_mafia_doc/assets/js/a3c4366e.ae91ca33.js"
         }
       ]
     },
     "4881": {
       "js": [
         {
-          "file": "assets/js/d74b1376.f944d45e.js",
-          "hash": "1df48759718910b3",
-          "publicPath": "/fpga_mafia_doc/assets/js/d74b1376.f944d45e.js"
+          "file": "assets/js/d74b1376.2a05822b.js",
+          "hash": "75c504c2e554b2dc",
+          "publicPath": "/fpga_mafia_doc/assets/js/d74b1376.2a05822b.js"
         }
       ]
     },
@@ -564,9 +564,9 @@
     "5589": {
       "js": [
         {
-          "file": "assets/js/5c868d36.a84549c7.js",
-          "hash": "09624c916f15edc3",
-          "publicPath": "/fpga_mafia_doc/assets/js/5c868d36.a84549c7.js"
+          "file": "assets/js/5c868d36.05815f73.js",
+          "hash": "42a6aef01690ccc5",
+          "publicPath": "/fpga_mafia_doc/assets/js/5c868d36.05815f73.js"
         }
       ]
     },
@@ -600,9 +600,9 @@
     "6504": {
       "js": [
         {
-          "file": "assets/js/822bd8ab.a86d811a.js",
-          "hash": "25f6e5cfd4afcc21",
-          "publicPath": "/fpga_mafia_doc/assets/js/822bd8ab.a86d811a.js"
+          "file": "assets/js/822bd8ab.1a64d2f0.js",
+          "hash": "d082c600a62be16a",
+          "publicPath": "/fpga_mafia_doc/assets/js/822bd8ab.1a64d2f0.js"
         }
       ]
     },
@@ -618,27 +618,27 @@
     "6747": {
       "js": [
         {
-          "file": "assets/js/345f31f3.2cfaf78f.js",
-          "hash": "8dc1f09e26111bda",
-          "publicPath": "/fpga_mafia_doc/assets/js/345f31f3.2cfaf78f.js"
+          "file": "assets/js/345f31f3.4ba0042c.js",
+          "hash": "c14825977e2ab32b",
+          "publicPath": "/fpga_mafia_doc/assets/js/345f31f3.4ba0042c.js"
         }
       ]
     },
     "6755": {
       "js": [
         {
-          "file": "assets/js/e44a2883.646d04f4.js",
-          "hash": "05336518df08c483",
-          "publicPath": "/fpga_mafia_doc/assets/js/e44a2883.646d04f4.js"
+          "file": "assets/js/e44a2883.8014449a.js",
+          "hash": "7c7c2c902a74c555",
+          "publicPath": "/fpga_mafia_doc/assets/js/e44a2883.8014449a.js"
         }
       ]
     },
     "6781": {
       "js": [
         {
-          "file": "assets/js/0c293ab7.e0366945.js",
-          "hash": "dbd70d99873929c4",
-          "publicPath": "/fpga_mafia_doc/assets/js/0c293ab7.e0366945.js"
+          "file": "assets/js/0c293ab7.96b231f9.js",
+          "hash": "b3c7b3ffa0d1336b",
+          "publicPath": "/fpga_mafia_doc/assets/js/0c293ab7.96b231f9.js"
         }
       ]
     },
@@ -654,9 +654,9 @@
     "7053": {
       "js": [
         {
-          "file": "assets/js/768c03bf.7ed91a81.js",
-          "hash": "3efbde072c5eada4",
-          "publicPath": "/fpga_mafia_doc/assets/js/768c03bf.7ed91a81.js"
+          "file": "assets/js/768c03bf.5158d989.js",
+          "hash": "19a77134616767e4",
+          "publicPath": "/fpga_mafia_doc/assets/js/768c03bf.5158d989.js"
         }
       ]
     },
@@ -690,18 +690,18 @@
     "7881": {
       "js": [
         {
-          "file": "assets/js/deb895d7.2dceb84e.js",
-          "hash": "e0e962aaf61608d7",
-          "publicPath": "/fpga_mafia_doc/assets/js/deb895d7.2dceb84e.js"
+          "file": "assets/js/deb895d7.03316d1e.js",
+          "hash": "cb501734e2ffebfd",
+          "publicPath": "/fpga_mafia_doc/assets/js/deb895d7.03316d1e.js"
         }
       ]
     },
     "7887": {
       "js": [
         {
-          "file": "assets/js/e9e98c23.f1a16e45.js",
-          "hash": "67d5a22c310118cf",
-          "publicPath": "/fpga_mafia_doc/assets/js/e9e98c23.f1a16e45.js"
+          "file": "assets/js/e9e98c23.4cb8bee1.js",
+          "hash": "fc9dfe17175a8eed",
+          "publicPath": "/fpga_mafia_doc/assets/js/e9e98c23.4cb8bee1.js"
         }
       ]
     },
@@ -735,9 +735,9 @@
     "8818": {
       "js": [
         {
-          "file": "assets/js/1e4232ab.06f550d8.js",
-          "hash": "9406e40cddbbd1b1",
-          "publicPath": "/fpga_mafia_doc/assets/js/1e4232ab.06f550d8.js"
+          "file": "assets/js/1e4232ab.7dd84df4.js",
+          "hash": "350cd5d3556e2e18",
+          "publicPath": "/fpga_mafia_doc/assets/js/1e4232ab.7dd84df4.js"
         }
       ]
     },
@@ -771,9 +771,9 @@
     "9671": {
       "js": [
         {
-          "file": "assets/js/0e384e19.039fb7a3.js",
-          "hash": "c9df4df3bb4f7949",
-          "publicPath": "/fpga_mafia_doc/assets/js/0e384e19.039fb7a3.js"
+          "file": "assets/js/0e384e19.e20a7ad4.js",
+          "hash": "7d97e4c79c1ca0f1",
+          "publicPath": "/fpga_mafia_doc/assets/js/0e384e19.e20a7ad4.js"
         }
       ]
     }

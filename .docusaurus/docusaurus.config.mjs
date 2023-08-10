@@ -19,7 +19,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/noam/Desktop/Projet Final/FPGA_MAFIA_DOC/sidebars.js",
-          "editUrl": "https://github.com/amichai-bd/fpga_mafia"
+          "editUrl": "https://github.com/noamsabb/fpga_mafia_doc"
         },
         "theme": {
           "customCss": "/Users/noam/Desktop/Projet Final/FPGA_MAFIA_DOC/src/css/custom.css"
