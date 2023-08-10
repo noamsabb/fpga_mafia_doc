@@ -11,7 +11,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   baseUrl: '/fpga_mafia_doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/icon.png',
+  favicon: 'img/favicon.png',
   organizationName: 'noamsabb', // Usually your GitHub org/user name.
   projectName: 'fpga_mafia_doc', // Usually your repo name.
 
