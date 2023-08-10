@@ -10,7 +10,7 @@ export default {
   "baseUrl": "/fpga_mafia_doc/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/icon.png",
   "organizationName": "noamsabb",
   "projectName": "fpga_mafia_doc",
   "presets": [

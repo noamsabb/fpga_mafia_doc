@@ -6,6 +6,25 @@ module.exports = {
       label: 'Hello',
     },
   ],
+  HowTo: [
+  {
+    type: 'doc',
+    id: 'how_to/github_action',
+    label: 'GitHub Action',
+  },
+{
+    type: 'link',
+    label: 'How to git',
+    href : 'https://github.com/amichai-bd/fpga_mafia/wiki/Git', 
+},
+{
+    type: 'link',
+    label: 'How to',
+    href : 'https://github.com/amichai-bd/fpga_mafia/wiki/Getting-started---tool-chain-tutorial', 
+}
+
+  
+  ],
   Cache: [
     {
       type: 'doc',
