@@ -1,6 +1,7 @@
 export default {
   '01a85c17': [() => import(/* webpackChunkName: '01a85c17' */ '@theme/BlogTagsListPage'), '@theme/BlogTagsListPage', require.resolveWeak('@theme/BlogTagsListPage')],
   '03048642': [() => import(/* webpackChunkName: '03048642' */ '~blog/default/fpga-mafia-doc-blog-archive-f0e.json'), '~blog/default/fpga-mafia-doc-blog-archive-f0e.json', require.resolveWeak('~blog/default/fpga-mafia-doc-blog-archive-f0e.json')],
+  '0a99f5e6': [() => import(/* webpackChunkName: '0a99f5e6' */ '@site/docs/how_to/HOW_TO_GIT.md'), '@site/docs/how_to/HOW_TO_GIT.md', require.resolveWeak('@site/docs/how_to/HOW_TO_GIT.md')],
   '0c293ab7': [() => import(/* webpackChunkName: '0c293ab7' */ '@site/docs/cache/cache_intro.md'), '@site/docs/cache/cache_intro.md', require.resolveWeak('@site/docs/cache/cache_intro.md')],
   '0e384e19': [() => import(/* webpackChunkName: '0e384e19' */ '@site/docs/intro.md'), '@site/docs/intro.md', require.resolveWeak('@site/docs/intro.md')],
   '17896441': [() => import(/* webpackChunkName: '17896441' */ '@theme/DocItem'), '@theme/DocItem', require.resolveWeak('@theme/DocItem')],
@@ -13,6 +14,7 @@ export default {
   '345f31f3': [() => import(/* webpackChunkName: '345f31f3' */ '@site/docs/cache/High_level_block_description.md'), '@site/docs/cache/High_level_block_description.md', require.resolveWeak('@site/docs/cache/High_level_block_description.md')],
   '38883ce0': [() => import(/* webpackChunkName: '38883ce0' */ '~blog/default/fpga-mafia-doc-blog-tags-facebook-e98-list.json'), '~blog/default/fpga-mafia-doc-blog-tags-facebook-e98-list.json', require.resolveWeak('~blog/default/fpga-mafia-doc-blog-tags-facebook-e98-list.json')],
   '393be207': [() => import(/* webpackChunkName: '393be207' */ '@site/src/pages/markdown-page.md'), '@site/src/pages/markdown-page.md', require.resolveWeak('@site/src/pages/markdown-page.md')],
+  '423a2063': [() => import(/* webpackChunkName: '423a2063' */ '@site/docs/how_to/HOW_TO.md'), '@site/docs/how_to/HOW_TO.md', require.resolveWeak('@site/docs/how_to/HOW_TO.md')],
   '533a09ca': [() => import(/* webpackChunkName: '533a09ca' */ '@site/docs/tutorial-basics/create-a-blog-post.md'), '@site/docs/tutorial-basics/create-a-blog-post.md', require.resolveWeak('@site/docs/tutorial-basics/create-a-blog-post.md')],
   '59362658': [() => import(/* webpackChunkName: '59362658' */ '@site/blog/2021-08-01-mdx-blog-post.mdx'), '@site/blog/2021-08-01-mdx-blog-post.mdx', require.resolveWeak('@site/blog/2021-08-01-mdx-blog-post.mdx')],
   '5b472fff': [() => import(/* webpackChunkName: '5b472fff' */ '~blog/default/fpga-mafia-doc-blog-tags-tags-0a5.json'), '~blog/default/fpga-mafia-doc-blog-tags-tags-0a5.json', require.resolveWeak('~blog/default/fpga-mafia-doc-blog-tags-tags-0a5.json')],
@@ -42,6 +44,7 @@ export default {
   'd6dbc14a': [() => import(/* webpackChunkName: 'd6dbc14a' */ '~blog/default/fpga-mafia-doc-blog-tags-hola-6b9-list.json'), '~blog/default/fpga-mafia-doc-blog-tags-hola-6b9-list.json', require.resolveWeak('~blog/default/fpga-mafia-doc-blog-tags-hola-6b9-list.json')],
   'd74b1376': [() => import(/* webpackChunkName: 'd74b1376' */ '@site/docs/cache/Assumption_Assertions.md'), '@site/docs/cache/Assumption_Assertions.md', require.resolveWeak('@site/docs/cache/Assumption_Assertions.md')],
   'd9f32620': [() => import(/* webpackChunkName: 'd9f32620' */ '@site/blog/2021-08-26-welcome/index.md'), '@site/blog/2021-08-26-welcome/index.md', require.resolveWeak('@site/blog/2021-08-26-welcome/index.md')],
+  'deb895d7': [() => import(/* webpackChunkName: 'deb895d7' */ '@site/docs/how_to/github_action.md'), '@site/docs/how_to/github_action.md', require.resolveWeak('@site/docs/how_to/github_action.md')],
   'dff1c289': [() => import(/* webpackChunkName: 'dff1c289' */ '@site/docs/tutorial-extras/manage-docs-versions.md'), '@site/docs/tutorial-extras/manage-docs-versions.md', require.resolveWeak('@site/docs/tutorial-extras/manage-docs-versions.md')],
   'e273c56f': [() => import(/* webpackChunkName: 'e273c56f' */ '@site/blog/2019-05-28-first-blog-post.md'), '@site/blog/2019-05-28-first-blog-post.md', require.resolveWeak('@site/blog/2019-05-28-first-blog-post.md')],
   'e44a2883': [() => import(/* webpackChunkName: 'e44a2883' */ '@site/docs/tutorial-extras/translate-your-site.md'), '@site/docs/tutorial-extras/translate-your-site.md', require.resolveWeak('@site/docs/tutorial-extras/translate-your-site.md')],

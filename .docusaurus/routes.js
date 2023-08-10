@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/fpga_mafia_doc/docs',
-    component: ComponentCreator('/fpga_mafia_doc/docs', '418'),
+    component: ComponentCreator('/fpga_mafia_doc/docs', 'bfe'),
     routes: [
       {
         path: '/fpga_mafia_doc/docs/cache/ABD_notes',
@@ -119,6 +119,22 @@ export default [
         component: ComponentCreator('/fpga_mafia_doc/docs/cache/Verification', '1ff'),
         exact: true,
         sidebar: "Cache"
+      },
+      {
+        path: '/fpga_mafia_doc/docs/how_to/',
+        component: ComponentCreator('/fpga_mafia_doc/docs/how_to/', '791'),
+        exact: true
+      },
+      {
+        path: '/fpga_mafia_doc/docs/how_to/github_action',
+        component: ComponentCreator('/fpga_mafia_doc/docs/how_to/github_action', 'af5'),
+        exact: true,
+        sidebar: "HowTo"
+      },
+      {
+        path: '/fpga_mafia_doc/docs/how_to/HOW_TO_GIT',
+        component: ComponentCreator('/fpga_mafia_doc/docs/how_to/HOW_TO_GIT', '5a5'),
+        exact: true
       },
       {
         path: '/fpga_mafia_doc/docs/intro',

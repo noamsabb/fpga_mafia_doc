@@ -56,6 +56,19 @@
               "sidebar": "Cache"
             },
             {
+              "id": "how_to/github_action",
+              "path": "/fpga_mafia_doc/docs/how_to/github_action",
+              "sidebar": "HowTo"
+            },
+            {
+              "id": "how_to/HOW_TO",
+              "path": "/fpga_mafia_doc/docs/how_to/"
+            },
+            {
+              "id": "how_to/HOW_TO_GIT",
+              "path": "/fpga_mafia_doc/docs/how_to/HOW_TO_GIT"
+            },
+            {
               "id": "intro",
               "path": "/fpga_mafia_doc/docs/intro",
               "sidebar": "Hello"
@@ -99,6 +112,12 @@
               "link": {
                 "path": "/fpga_mafia_doc/docs/intro",
                 "label": "Hello"
+              }
+            },
+            "HowTo": {
+              "link": {
+                "path": "/fpga_mafia_doc/docs/how_to/github_action",
+                "label": "GitHub Action"
               }
             },
             "Cache": {

@@ -42,6 +42,12 @@ export default {
       "items": [
         {
           "type": "doc",
+          "docId": "how_to/github_action",
+          "position": "right",
+          "label": "How To"
+        },
+        {
+          "type": "doc",
           "docId": "cache/cache_intro",
           "position": "left",
           "label": "Cache"

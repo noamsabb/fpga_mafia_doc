@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/fpga_mafia_doc/docs-418": {
+  "/fpga_mafia_doc/docs-bfe": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "6014b32b"
@@ -185,6 +185,18 @@
   "/fpga_mafia_doc/docs/cache/Verification-1ff": {
     "__comp": "17896441",
     "content": "f13f06cc"
+  },
+  "/fpga_mafia_doc/docs/how_to/-791": {
+    "__comp": "17896441",
+    "content": "423a2063"
+  },
+  "/fpga_mafia_doc/docs/how_to/github_action-af5": {
+    "__comp": "17896441",
+    "content": "deb895d7"
+  },
+  "/fpga_mafia_doc/docs/how_to/HOW_TO_GIT-5a5": {
+    "__comp": "17896441",
+    "content": "0a99f5e6"
   },
   "/fpga_mafia_doc/docs/intro-887": {
     "__comp": "17896441",
