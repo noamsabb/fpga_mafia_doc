@@ -14,12 +14,12 @@ module.exports = {
   },
 {
     type: 'link',
-    label: 'How to git',
+    label: 'How to GIT',
     href : 'https://github.com/amichai-bd/fpga_mafia/wiki/Git', 
 },
 {
     type: 'link',
-    label: 'How to',
+    label: 'Getting started tool chain tutorial',
     href : 'https://github.com/amichai-bd/fpga_mafia/wiki/Getting-started---tool-chain-tutorial', 
 }
 

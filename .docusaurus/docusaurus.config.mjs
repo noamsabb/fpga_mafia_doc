@@ -43,7 +43,7 @@ export default {
         {
           "type": "doc",
           "docId": "how_to/github_action",
-          "position": "right",
+          "position": "left",
           "label": "How To"
         },
         {
